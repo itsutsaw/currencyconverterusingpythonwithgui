@@ -26,6 +26,6 @@ b=tk.Button(window,text="Convert",command=clicked ).place(x=250,y=250)
 
 e1.place(x = 300, y= 88)
 e2.place(x = 300, y= 128)
-e3.place(x = 300, y= 169)
+e3.place(x = 300, y= 168)
 
 window.mainloop()
